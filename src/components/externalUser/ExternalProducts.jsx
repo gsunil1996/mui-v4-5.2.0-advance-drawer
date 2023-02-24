@@ -1,0 +1,12 @@
+import React from 'react'
+
+const ExternalProducts = () => {
+    return (
+        <div>
+            <h1>External Products Page</h1>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo fugiat voluptatum commodi. Natus, assumenda omnis odit officia sed porro corporis dolorum, libero quam fugit itaque suscipit pariatur nobis vitae ex ipsum necessitatibus quia ab! Quos doloremque sit cumque, repudiandae repellat harum nobis consequuntur. Error obcaecati voluptatem repellendus hic tempore quidem in. Atque ipsam, assumenda quas tenetur ab sunt dolore voluptatibus cupiditate quo, sit quaerat beatae, natus quasi repellendus aspernatur ad magnam totam laboriosam non? Quae maxime eaque hic? Facilis nobis eaque id. Nisi, similique! Obcaecati excepturi enim impedit assumenda repudiandae quia tempore ipsa dolorem dolore maiores voluptatibus, reiciendis dolorum incidunt, atque quo repellat? Reiciendis, laborum rem. Fugiat modi cumque quaerat similique sapiente beatae eum quisquam tempora expedita repellendus! Rerum magni, assumenda voluptatem dolorum eos quia sapiente in. Nostrum at dicta provident asperiores autem quia numquam soluta delectus, doloribus eius vero tenetur assumenda ipsam magnam iste repudiandae odit suscipit vitae eaque, distinctio cum aliquam eligendi. Reiciendis enim, officiis maxime vel dignissimos neque quas beatae mollitia, ad consectetur minus ea. Maxime sunt itaque ipsa accusantium adipisci perferendis quos nesciunt quod neque dolorem repellat voluptates error iure, molestiae laboriosam quas fuga mollitia ex iste aspernatur ut veniam rerum quam repudiandae! A delectus iure accusamus commodi, nobis ullam sequi debitis magni impedit quidem ut officia obcaecati fugiat consequatur doloribus possimus, harum ratione, voluptatum deleniti! Soluta veniam explicabo ad sunt molestias ex fugit vitae doloremque placeat iure aliquam architecto eligendi dolore corrupti nobis, quod, deleniti libero quibusdam dignissimos repudiandae esse praesentium? Reiciendis alias ut cumque repellat, nostrum autem tenetur. Incidunt nisi ex quae ratione ducimus eaque blanditiis eveniet numquam, neque possimus. Iusto quia, sunt facilis quidem at sequi asperiores nostrum aliquam, voluptatem pariatur debitis possimus nulla alias fugit suscipit voluptatibus non. Beatae deleniti quia incidunt voluptatem ab, ex obcaecati quis veniam voluptates, minima, laboriosam cupiditate.
+        </div>
+    )
+}
+
+export default ExternalProducts

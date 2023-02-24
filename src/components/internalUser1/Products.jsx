@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Products = () => {
+    return (
+        <div>
+            <h1>Products page</h1>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, atque corrupti rem eaque adipisci ad, dolor unde maiores molestiae recusandae ut iure deleniti fuga quasi commodi facilis consequuntur. Deleniti voluptatem quas quidem corporis earum voluptas autem labore aspernatur totam, eaque quam? Magni, dolorum esse? Tempora id aut pariatur ducimus, velit iusto dignissimos ea necessitatibus, molestiae nihil magnam non deserunt esse veniam nobis minus ipsum illum magni maxime, vitae excepturi eveniet. At voluptas optio illum totam nobis fugit natus, quidem molestiae possimus eligendi asperiores corrupti aliquam, excepturi quasi? Voluptatum dignissimos eaque mollitia pariatur ad iure omnis, quod qui odit ut ducimus excepturi illum, facere deleniti dolorem vero quae fugit hic cumque amet exercitationem. Iste ipsam quaerat perspiciatis pariatur est ex ducimus aliquid error sapiente, ut architecto, harum obcaecati itaque esse sit, facere ullam eum sequi rerum dignissimos fugit illum autem. Nostrum corporis placeat nulla laudantium alias nemo, similique minus. Atque obcaecati placeat porro commodi quasi nemo hic laboriosam temporibus repudiandae nisi, recusandae molestias accusantium voluptatibus odit eius. Voluptate omnis, quos ex nam maxime delectus, nulla itaque eius libero tempora consectetur sunt illum rerum nesciunt soluta? Sequi soluta voluptatum rerum maiores ullam ratione aliquid architecto! Maiores debitis asperiores suscipit perferendis enim molestias voluptas, dolor rem numquam magni, necessitatibus cupiditate? Quidem eaque quibusdam voluptatum quis sint impedit sapiente maiores harum explicabo quas inventore dignissimos assumenda alias voluptate, exercitationem iure odio repellat atque quisquam beatae vel accusantium sunt nemo? Ut odit, tempora error incidunt est sed quia rem alias mollitia, unde nihil dolor nulla fugit esse! Ab quasi voluptas nihil temporibus cupiditate aliquam, magni dolor vitae ipsum suscipit quas laboriosam beatae ut, at eaque pariatur voluptatem explicabo eveniet quisquam! Ea quisquam qui excepturi magnam obcaecati eligendi libero maxime, sunt expedita, praesentium iure! At provident minus officiis neque placeat ad earum rem quasi veritatis impedit.
+        </div>
+    )
+}
+
+export default Products
